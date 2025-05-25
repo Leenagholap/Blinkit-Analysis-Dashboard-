@@ -1,2 +1,4 @@
-# Blinkit-Analysis-Dashboard-
-Blinkit Analysis Dashboard is an interactive Power BI project that visualizes key metrics like sales, orders, and customer behavior. It helps identify trends, peak hours, and performance of different product categories to support data-driven decision-making.
+# Blinkit Data Analysis (Interactive Dashboard creation using Power BI)
+## Project Objective
+To analyze Blinkit's sales data using Power BI and DAX to uncover actionable insights across product categories, outlet performance, and regional trends. The goal is to support strategic decisions for expansion, product focus, and operational efficiency.
+
